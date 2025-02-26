@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 import os
 from io import BytesIO
-from openpyxl.workbook import Workbook
+from openpyxl import Workbook
 
 
 # Set up our App
